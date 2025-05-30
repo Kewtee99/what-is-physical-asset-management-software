@@ -12,7 +12,7 @@ The article aims to provide a clear and professional overview to help organizati
 
 ## 📄 Article Content
 
-The full article can be found in the [`article.md`](article.md) file.
+The full article can be found at [Understanding Physical Asset Management Software](https://assetloom.com/blog/physical-asset-management-software?utm_source=forum&utm_medium=repository&utm_campaign=physical-asset-management-software).
 
 ---
 
